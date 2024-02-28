@@ -1,5 +1,9 @@
 .App {
+  width: 100%;
+  height: 100%;
   text-align: center;
+  justify-content: center;
+  margin: auto;
 }
 
 .App-logo {
@@ -24,6 +28,12 @@
   color: white;
 }
 
+.graptc{
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  margin: auto;
+}
 .App-link {
   color: #61dafb;
 }
